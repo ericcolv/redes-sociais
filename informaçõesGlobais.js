@@ -3,3 +3,8 @@
   "tempo_medio": 2.38,
   "total_pessoas_mundo": 7.888e9
 }const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json'
+const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json'
+
+async function vizualizarInformacoesGlobais() {
+
+}
